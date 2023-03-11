@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ggust\eclipse-workspace\java-graphics-jframe\target\java-graphics-jframe-0.0.1-SNAPSHOT-jar-with-dependencies.jar</jar>
+  <outfile>C:\Users\ggust\eclipse-workspace\java-graphics-jframe\PackageWindowsCreation\Trabalho applicationWin.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ggust\eclipse-workspace\java-graphics-jframe\PackageWindowsCreation\Course_Icon_LinAlgebra.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0</txtFileVersion>
+    <fileDescription>Trabalho de algebra Linear composto por 3 exercicios represetados em interfaces gráficas.</fileDescription>
+    <copyright>Copyrigth ©, 2023, 2050, Gustavo Borges</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0</txtProductVersion>
+    <productName>TrabalhoApplication</productName>
+    <companyName>Gustavo Borges</companyName>
+    <internalName>TrabalhoApplication</internalName>
+    <originalFilename>TrabalhoApplicationWin.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>PORTUGUESE_BRAZIL</language>
+  </versionInfo>
+  <messages>
+    <startupErr>Ocorreu um erro ao iniciar a aplicação.</startupErr>
+    <bundledJreErr>Esta aplicação requer um Java Runtime Environment.</bundledJreErr>
+    <jreVersionErr>Esta aplicação requer um ambiente Java Runtime</jreVersionErr>
+    <launcherErr>O registro se refere a uma instalação Java Runtime Environment inexistente ou o tempo de execução está corrompido.</launcherErr>
+    <instanceAlreadyExistsMsg>Uma instância de aplicação já está em execução.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
