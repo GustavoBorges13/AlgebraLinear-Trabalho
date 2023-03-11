@@ -16,4 +16,4 @@ Repositório: https://github.com/GustavoBorges13/AlgebraLinear-Trabalho
 Release v1.0.0: https://github.com/GustavoBorges13/AlgebraLinear-Trabalho/releases/tag/v1.0.0
 
 # Observações
-Este programa precisa ter o java instalado, caso não saiba instalar, basta rodar o programa que ele te leva pra página pra baixar o java caso você não possua. Ou então se preferir basta acessar este [site do java](http://java.com/download) para baixar.
+Este programa precisa ter o java instalado, caso não saiba instalar, basta rodar o programa que ele te leva pra página de download do java caso você não possua. Ou então se preferir basta acessar este [site do java](http://java.com/download) para baixar agora.
